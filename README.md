@@ -41,6 +41,8 @@ Access the game:
 Open your web browser and go to : 
 - http://localhost:8501.
 
+PS you can also go to : 
+
 ## 🃏 How to Play
 ### Start the game:
 
